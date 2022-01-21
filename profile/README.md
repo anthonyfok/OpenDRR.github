@@ -2,7 +2,7 @@
 
 Looking for data? Head over to [Downloads](https://opendrr.github.io/downloads/en/)
 
-Have questions? Submit them to [Discussions](https://github.com/OpenDRR/downloads/discussions)
+Have questions? Submit them to [Discussions](https://github.com/OpenDRR/opendrr/discussions)
 
 ---
 
@@ -10,7 +10,7 @@ Have questions? Submit them to [Discussions](https://github.com/OpenDRR/download
 
 Vous cherchez des données ? Rendez-vous sur [Téléchargements](https://opendrr.github.io/downloads/fr/)
 
-Vous avez des questions ? Soumettez-les à [Discussions](https://github.com/OpenDRR/downloads/discussions)
+Vous avez des questions ? Soumettez-les à [Discussions](https://github.com/OpenDRR/opendrr/discussions)
 
 <!--
 
