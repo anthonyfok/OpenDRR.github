@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=opendrr&color=FF3121&label=Views)
+<img src="https://user-images.githubusercontent.com/2255248/150612472-a0389fd3-fed7-41bf-9c8e-3c24ab32ff1b.jpg" style="width:100%">
 
 ### Welcome to the Open Disaster Risk Reduction Organisation on GitHub
 
