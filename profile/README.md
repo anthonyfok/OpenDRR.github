@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=opendrr&color=red&label=Views)
+![](https://komarev.com/ghpvc/?username=opendrr&color=C70039&label=Views)
 
 ### Welcome to the Open Disaster Risk Reduction Organisation on GitHub
 
