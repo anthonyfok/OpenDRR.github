@@ -2,11 +2,15 @@
 
 Looking for data? Head over to [Downloads](https://opendrr.github.io/downloads/en/)
 
+Have questions? Submit them to [Discussions](https://github.com/OpenDRR/downloads/discussions)
+
 ---
 
 ### Bienvenue dans l'organisation ouverte de réduction des risques de catastrophes sur GitHub
 
 Vous cherchez des données ? Rendez-vous sur [Téléchargements](https://opendrr.github.io/downloads/fr/)
+
+Vous avez des questions ? Soumettez-les à [Discussions](https://github.com/OpenDRR/downloads/discussions)
 
 <!--
 
