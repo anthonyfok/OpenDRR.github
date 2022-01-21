@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=opendrr&color=red&label=Views)
+
 ### Welcome to the Open Disaster Risk Reduction Organisation on GitHub
 
 Looking for data? Head over to [Downloads](https://opendrr.github.io/downloads/en/)
