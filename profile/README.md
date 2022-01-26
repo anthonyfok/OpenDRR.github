@@ -1,4 +1,4 @@
-### Welcome to the Open Disaster Risk Reduction Organisation on GitHub
+### Welcome to the Open Disaster Risk Reduction Organization on GitHub
 
 Looking for data? Head over to [Downloads](https://opendrr.github.io/downloads/en/)
 
